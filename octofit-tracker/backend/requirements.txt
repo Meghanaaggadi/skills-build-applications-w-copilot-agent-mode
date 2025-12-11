@@ -1,4 +1,4 @@
-Flask
+Django==4.1
 pymongo
 motor
 python-dotenv
